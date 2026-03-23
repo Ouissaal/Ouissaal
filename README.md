@@ -57,15 +57,7 @@ Other
 - Basic knowledge of AI tools
    
 
----
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ouissaal&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Ouissaal)
-
----
 
 ## Contact
 
