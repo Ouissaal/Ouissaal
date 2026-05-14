@@ -2,7 +2,7 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Solutions;Always+Learning+New+Technologies)
 
-Specialized Technician in Digital Development | Backend Developer
+Backend Developer
 
 Open to new opportunities  
 
