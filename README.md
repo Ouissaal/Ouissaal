@@ -32,7 +32,7 @@ I also have an interest in data extraction and artificial intelligence, and I am
 
 ## What I Work On
 
-- Building backend systems using Laravel ,PHP  and Python 
+- Building backend systems 
 - Designing APIs and application logic  
 - Working with databases and data structures  
 
