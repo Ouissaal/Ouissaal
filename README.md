@@ -237,7 +237,7 @@ Development and modification of a production web application built on Django, wo
 
 <a href="https://linkedin.com/in/ouissal-bouamar"><img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=60A5FA" height="40" /></a>
 <a href="https://github.com/Ouissaal"><img src="https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=60A5FA" height="40" /></a>
-<a href="https://linkedin.com/in/ouissal-bouamar"><img src="https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=vercel&logoColor=60A5FA" height="40" /></a>
+
 
 </div>
 
@@ -245,7 +245,7 @@ Development and modification of a production web application built on Django, wo
 
 <div align="center">
 
-**Clean architecture is not a luxury — it is the shortest path to software that lasts.**
+**Clean architecture is not a luxury  it is the shortest path to software that lasts.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0a1628&height=140&section=footer" />
 
