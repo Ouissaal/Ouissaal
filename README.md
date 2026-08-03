@@ -185,16 +185,6 @@ Development and modification of a production web application built on Django, wo
 
 </div>
 
----
-
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ouissaal&bg_color=0d1117&color=60A5FA&line=2563EB&point=3B82F6&area=true&hide_border=true" />
-
-</div>
 
 
 
