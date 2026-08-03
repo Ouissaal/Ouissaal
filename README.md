@@ -91,23 +91,6 @@ I approach every project with a product engineering mindset  understanding the p
 
 ---
 
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **AI-Assisted Development** | ![Advanced](https://img.shields.io/badge/Advanced-1E3A8A?style=flat-square) | Claude Code for feature development, refactoring, code review, and rapid iteration across full-stack codebases |
-| **Workflow Automation** | ![Advanced](https://img.shields.io/badge/Advanced-1E3A8A?style=flat-square) | n8n orchestration connecting APIs, databases, AI models, and third-party services into automated pipelines |
-| **LLM Integration** | ![Proficient](https://img.shields.io/badge/Proficient-1D4ED8?style=flat-square) | Production API integration, prompt engineering, structured output parsing, AI service layers in Laravel and Python |
-| **Web Scraping & Data Extraction** | ![Advanced](https://img.shields.io/badge/Advanced-1E3A8A?style=flat-square) | Selenium automation, dynamic content handling, anti-bot mitigation, structured dataset generation |
-| **Data Pipelines & Preprocessing** | ![Advanced](https://img.shields.io/badge/Advanced-1E3A8A?style=flat-square) | Cleaning, normalization, deduplication, and transformation of large extracted datasets |
-| **Intelligent Application Design** | ![Proficient](https://img.shields.io/badge/Proficient-1D4ED8?style=flat-square) | Embedding AI capability into products with caching, rate control, cost management, and graceful degradation |
-
-</div>
-
----
-
 ## Experience
 
 ### Full-Stack Developer · RAKOPS SOLUTIONS
@@ -144,22 +127,7 @@ Development and modification of a production web application built on Django, wo
 ![HTML_CSS](https://img.shields.io/badge/HTML_CSS-2563EB?style=flat-square)
 ![Remote](https://img.shields.io/badge/Remote-3B82F6?style=flat-square)
 
----
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| **Observability Engineering** | Built a Laravel/React monitoring platform on Prometheus and Grafana with the infrastructure team |
-| **AI-Integrated Delivery** | Built applications with LLM features and AI-assisted processing embedded in core workflows |
-| **Automation Engineering** | Developed n8n and Selenium pipelines that replaced recurring manual operations |
-| **Full-Stack Ownership** | Delivered complete applications from database schema through deployed interface |
-| **AI-Native Workflow** | Adopted Claude Code and modern AI tooling to compress delivery cycles without losing rigor |
-| **Multilingual Collaboration** | Professional communication across Arabic, English, and French working environments |
-
-</div>
 
 ---
 
